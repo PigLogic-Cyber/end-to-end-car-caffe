@@ -41,8 +41,8 @@ mean_array = np.asarray(mean_blob.data, dtype=np.float32).reshape(
 
 
 #Read model architecture and trained model's weights
-net = caffe.Net('/home/roy/end-to-end-car/pilotnet_train.prototxt',
-                '/home/roy/end-to-end-car/caffe_model_1_iter_10000.caffemodel',
+net = caffe.Net('/home/roy/end-to-end-car/pilotnet_deploy.prototxt',
+                '/home/roy/end-to-end-car/snapshot/pilotnet_iter_10000.caffemodel',
                 caffe.TEST)
 
 #Define image transformers
@@ -77,7 +77,7 @@ for img_path in test_img_paths:
 '''
 Making submission file
 '''
-with open("../caffe_models/caffe_model_1/submission_model_1.csv","w") as f:
+with open("/home/roy/end-to-end-car/snapshot/submission_model_1.csv","w") as f:
     f.write("id,label\n")
     for i in range(len(test_ids)):
         f.write(str(test_ids[i])+","+str(preds[i])+"\n")
