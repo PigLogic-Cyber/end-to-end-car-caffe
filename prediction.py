@@ -5,8 +5,9 @@ import caffe
 import lmdb
 import numpy as np
 from caffe.proto import caffe_pb2
+import time
 
-caffe.set_mode_gpu()
+caffe.set_mode_cpu()
 
 #Size of images
 IMAGE_WIDTH = 256
@@ -59,6 +60,9 @@ test_img_paths = [img_path for img_path in glob.glob("/home/roy/end-to-end-car/v
 #Making predictions
 test_ids = []
 preds = []
+
+start = time.time()
+
 for img_path in test_img_paths:
     img = cv2.imread(img_path, cv2.IMREAD_COLOR)
     img = transform_img(img, img_width=IMAGE_WIDTH, img_height=IMAGE_HEIGHT)
@@ -82,3 +86,7 @@ with open("/home/roy/end-to-end-car/snapshot/submission_model_1.csv","w") as f:
     for i in range(len(test_ids)):
         f.write(str(test_ids[i])+","+str(preds[i])+"\n")
 f.close()
+
+t = time.time() - start
+print('execution time: %0.3f'%(t))
+

@@ -19,7 +19,7 @@ plt.ylabel("Frequency")
 plt.show()
 
 
-max_index = 180
+max_index = 90
 min_index = 0
 max_angle = max(angle2)
 min_angle = min(angle2)

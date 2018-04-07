@@ -126,7 +126,7 @@ layer {
   bottom: "flat"
   top: "fc6"
   inner_product_param {
-    num_output: 1164
+    num_output: 100
     weight_filler {
       type: "gaussian"
       std: 0.01
@@ -143,7 +143,7 @@ layer {
   bottom: "fc6"
   top: "fc7"
   inner_product_param {
-    num_output: 100
+    num_output: 50
     weight_filler {
       type: "gaussian"
       std: 0.01
@@ -160,7 +160,7 @@ layer {
   bottom: "fc7"
   top: "fc8"
   inner_product_param {
-    num_output: 50
+    num_output: 10
     weight_filler {
       type: "gaussian"
       std: 0.01
@@ -178,7 +178,7 @@ layer {
   bottom: "fc8"
   top: "fc9"
   inner_product_param {
-    num_output: 2378
+    num_output: 180
     weight_filler {
       type: "gaussian"
       std: 0.01

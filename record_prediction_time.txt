@@ -1,0 +1,1 @@
+use the i5 preocessor 53.814 seconds for 1202 images with size of 256x256
