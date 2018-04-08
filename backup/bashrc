@@ -1,0 +1,7 @@
+export PATH=/usr/local/cuda-9.0/bin:$PATH 
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-9.0/lib64
+ 
+export PYTHONPATH=/home/roy/caffe/python:$PYTHONPATH
+
+PATH=$PATH:/home/roy/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin
