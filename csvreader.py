@@ -14,9 +14,9 @@ right_name = data[1:row, 2]
 
 # l = len(angle)
 
-train_path = '/home/roy/end-to-end-car/train'
-val_path = '/home/roy/end-to-end-car/val'
-data_base_dir = "/home/roy/end-to-end-car/IMG"
+train_path = '/home/roy/end-to-end-car-caffe/train'
+val_path = '/home/roy/end-to-end-car-caffe/val'
+data_base_dir = "/home/roy/end-to-end-car-caffe/IMG"
 dir_list = os.listdir(data_base_dir)
 num_of_picture = len(dir_list)
 

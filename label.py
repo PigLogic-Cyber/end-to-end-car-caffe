@@ -38,7 +38,7 @@ for element in angle2:
 train_file = open("train.txt", 'r+w')
 for j in range(len(angle2)):
     new_index = angle_t[j].astype('str').replace('.0', '')
-    name[j] = name[j].replace('/home/roy/end-to-end-car/IMG/', '')
+    name[j] = name[j].replace('/home/roy/end-to-end-car-caffe/IMG/', '')
     train_file.write(name[j] + ' ' + new_index + '\n')
 train_file.close()
 
@@ -67,7 +67,7 @@ for element in angle3:
 val_file = open("val.txt", 'r+w')
 for j in range(len(angle3)):
     new_index = angle_v[j].astype('str').replace('.0', '')
-    name[j] = name[j].replace('/home/roy/end-to-end-car/IMG/', '')
+    name[j] = name[j].replace('/home/roy/end-to-end-car-caffe/IMG/', '')
     val_file.write(name[j] + ' ' + new_index + '\n')
 val_file.close()
 print("finish label val data")

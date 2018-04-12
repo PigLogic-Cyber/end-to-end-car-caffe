@@ -3,12 +3,12 @@
 # N.B. set the path to the imagenet train + val data dirs
 set -e
 
-EXAMPLE=/home/roy/end-to-end-car
-LABEL=/home/roy/end-to-end-car
+EXAMPLE=/home/roy/end-to-end-car-caffe
+LABEL=/home/roy/end-to-end-car-caffe
 TOOLS=/home/roy/caffe/build/tools
 
-TRAIN_DATA_ROOT=/home/roy/end-to-end-car/train/
-VAL_DATA_ROOT=/home/roy/end-to-end-car/val/
+TRAIN_DATA_ROOT=/home/roy/end-to-end-car-caffe/train/
+VAL_DATA_ROOT=/home/roy/end-to-end-car-caffe/val/
 
 # Set RESIZE=true to resize the images to 256x256. Leave as false if images have
 # already been resized using another tool.
