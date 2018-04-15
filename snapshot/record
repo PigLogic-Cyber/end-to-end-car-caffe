@@ -34,3 +34,163 @@ snapshot: 5000
 snapshot_prefix: "/home/roy/end-to-end-car/snapshot/pilotnet"
 solver_mode: GPU
 debug_info: false
+
+Figure_7
+
+net: "/home/roy/end-to-end-car-caffe/pilotnet_train.prototxt"
+test_iter: 1000
+test_interval: 1000
+base_lr: 0.008
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2500
+display: 100
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "/home/roy/end-to-end-car-caffe/snapshot/pilotnet"
+solver_mode: GPU
+debug_info: false
+
+label 0~90
+train_batch_size = 128
+test_batch_size = 50
+
+max error is 3025
+mean error is 269.000839631
+
+accuracy:
+[ 0.04  0.    0.02  0.02  0.04  0.06  0.04  0.06  0.04  0.04  0.    0.02
+  0.12  0.1   0.02  0.02  0.06  0.06  0.06  0.06]
+
+
+Figure_8
+
+net: "/home/roy/end-to-end-car-caffe/pilotnet_train.prototxt"
+test_iter: 1000
+test_interval: 1000
+base_lr: 0.008
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2500
+display: 100
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "/home/roy/end-to-end-car-caffe/snapshot/pilotnet"
+solver_mode: GPU
+debug_info: false
+
+label 0~36
+train_batch_size = 128
+test_batch_size = 50
+
+max error is 441
+mean error is 46.9890848027
+
+accuracy:
+[ 0.02  0.    0.    0.02  0.04  0.06  0.04  0.04  0.08  0.08  0.04  0.06
+  0.06  0.06  0.14  0.14  0.1   0.1   0.12  0.12]
+
+
+Figure_9
+
+net: "/home/roy/end-to-end-car-caffe/pilotnet_train.prototxt"
+test_iter: 1000
+test_interval: 1000
+base_lr: 0.008
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2500
+display: 100
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "/home/roy/end-to-end-car-caffe/snapshot/pilotnet"
+solver_mode: GPU
+debug_info: false
+
+label 0~10
+train_batch_size = 128
+test_batch_size = 50
+
+max error is 36
+mean error is 3.56255247691
+2-norm error is 65.1383143779
+match is 220
+
+
+accuracy:
+[ 0.          0.14        0.16        0.16        0.28        0.28
+  0.18000001  0.14        0.16        0.16        0.1         0.1         0.28
+  0.28        0.25999999  0.25999999  0.16        0.16        0.22        0.22      ]
+
+
+match_histogram!!!!!!!!!!!!!!!!
+#transform label1 - label2 to degree
+
+
+right now I am changing the label method
+
+Figure_10
+
+net: "/home/roy/end-to-end-car-caffe/pilotnet_train.prototxt"
+test_iter: 1000
+test_interval: 1000
+base_lr: 0.008
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2500
+display: 100
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "/home/roy/end-to-end-car-caffe/snapshot/pilotnet"
+solver_mode: GPU
+debug_info: false
+
+label 0~36
+train_batch_size = 128
+test_batch_size = 50
+
+accuracy:
+[ 0.1         0.1         0.36000001  0.23999999  0.22        0.23999999
+  0.34        0.22        0.16        0.16        0.30000001  0.25999999
+  0.30000001  0.30000001  0.25999999  0.23999999  0.12        0.12
+  0.25999999  0.25999999]
+
+
+
+Figure 11
+
+net: "/home/roy/end-to-end-car-caffe/pilotnet_train.prototxt"
+test_iter: 20
+test_interval: 1000
+base_lr: 0.008
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2500
+display: 100
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "/home/roy/end-to-end-car-caffe/snapshot/pilotnet"
+solver_mode: GPU
+debug_info: false
+
+label 0~36
+train_batch_size = 128
+test_batch_size = 50
+
+accuracy:
+[ 0.          0.04        0.22        0.18000001  0.16        0.12        0.14
+  0.14        0.36000001  0.34        0.23999999  0.23999999  0.31999999
+  0.31999999  0.14        0.14        0.14        0.14        0.25999999
+  0.25999999]
+
+

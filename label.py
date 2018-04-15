@@ -19,20 +19,25 @@ plt.ylabel("Frequency")
 plt.show()
 
 
-max_index = 90
+max_index = 36
 min_index = 0
 max_angle = max(angle2)
 min_angle = min(angle2)
 def mapfun(x):
     x = x.astype('float')
-    y = round((x)/(max_angle-min_angle)*(max_index-min_index))
+    if x > 0:
+        y = round(((x)/(max_angle)+1)*(max_index-min_index)/2)
+    if x < 0:
+        y = round((abs(x-min_angle)/abs(min_angle))*(max_index-min_index)/2)
+    if x == 0:
+        y = round((max_index-min_index)/2)
     return (y)
 
 j = 0
 offset = abs(min(angle2))
 angle_t = np.zeros(len(angle2))
 for element in angle2:
-    angle_t[j] = mapfun(element+offset)
+    angle_t[j] = mapfun(element)
     j = j + 1
 
 train_file = open("train.txt", 'r+w')
@@ -61,7 +66,7 @@ j=0
 offset = abs(min(angle3))
 angle_v = np.zeros(len(angle3))
 for element in angle3:
-    angle_v[j] = mapfun(element+offset)
+    angle_v[j] = mapfun(element)
     j = j + 1
 
 val_file = open("val.txt", 'r+w')

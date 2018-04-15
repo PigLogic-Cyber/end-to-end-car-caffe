@@ -178,7 +178,7 @@ layer {
   bottom: "fc8"
   top: "fc9"
   inner_product_param {
-    num_output: 180
+    num_output: 36
     weight_filler {
       type: "gaussian"
       std: 0.01
