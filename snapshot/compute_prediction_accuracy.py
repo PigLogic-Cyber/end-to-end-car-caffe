@@ -24,7 +24,7 @@ index = 0
 n = 0
 error = []
 k = 0
-my_range = 36
+my_range = 2
 print('my_range is {}'.format(my_range))
 # name = name1[0]
 # for index in range(0,row2-1,1):
