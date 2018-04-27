@@ -6,7 +6,7 @@ import os
 
 image_list = []
 path = "/home/roy/end-to-end-car-caffe/new_img/"
-folder = "/home/roy/end-to-end-car-caffe/IMG"
+folder = "/home/roy/end-to-end-car-caffe/crop_img"
 cnt = 0
 def do_canny():
     global cnt

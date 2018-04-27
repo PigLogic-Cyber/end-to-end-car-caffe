@@ -1,2 +1,5 @@
 use the i5 preocessor 53.814 seconds for 1202 images with size of 256x256
 use the i5 preocessor 44.822 seconds for 1161 images with size of 256x256 and canny
+
+just crop
+execution time: 46.832 for 256x256 images, 1227

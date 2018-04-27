@@ -17,14 +17,14 @@ name2 = data2[1:row2, 0]
 label2 = data2[1:row2, 1].astype('int')
 print('row2 {},col2 {}'.format(row2, col2))
 
-print('label1 max is {}'.format(max(label1)))
-print('label2 max is {}'.format(max(label2)))
+print('prediction label1 max is {}'.format(max(label1)))
+print('ground truth label2 max is {}'.format(max(label2)))
 
 index = 0
 n = 0
 error = []
 k = 0
-my_range = 2
+my_range = 4
 print('my_range is {}'.format(my_range))
 # name = name1[0]
 # for index in range(0,row2-1,1):
@@ -32,8 +32,8 @@ print('my_range is {}'.format(my_range))
 #         print('result is {}'.format(name2[index].find(name)))
 #         print('index is {}'.format(index))
 
-print('name1 is {}'.format(name1))
-print('name2 is {}'.format(name2))
+# print('name1 is {}'.format(name1))
+# print('name2 is {}'.format(name2))
 
 
 for name in name1:

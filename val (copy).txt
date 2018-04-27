@@ -23,6 +23,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_40_555.jpg -0.002791043
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_56_470.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_39_48_632.jpg 0.3488158
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_45_643.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_47_195.jpg 0.23391724
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_56_419.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_50_165.jpg 0.27219137
@@ -46,6 +47,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_06_614.jpg 0.12226538
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_50_716.jpg 0.1574452
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_46_522.jpg 0.3583082
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_42_840.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_11_702.jpg 0.5975214
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_56_064.jpg 0.29132844
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_40_48_737.jpg 0.22
@@ -54,11 +56,13 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_02_264.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_42_06_676.jpg -0.2211613
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_20_939.jpg 0.1765823
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_30_000.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_09_863.jpg 0.5783844
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_20_797.jpg 0.15074846
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_33_607.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_37_41_257.jpg 0.05219137
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_46_19_214.jpg -0.153071
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_07_453.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_24_645.jpg 0.29132844
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_28_204.jpg 0.16973717
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_58_039.jpg 0.5401102
@@ -72,6 +76,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_36_965.jpg 0.0937823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_46_01_336.jpg 0.0747936
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_57_981.jpg 0.16024281
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_52_194.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_41_204.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_15_065.jpg 0.3774452
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_05_399.jpg -0.06925154
@@ -95,10 +100,12 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_58_039.jpg 0.5401102
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_55_046.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_41_642.jpg 0.15074846
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_22_872.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_46_382.jpg -0.1167233
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_18_024.jpg -0.05975719
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_46_27_464.jpg 0.27219137
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_31_838.jpg 0.4731306
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_56_530.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_33_180.jpg 0.0178275
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_32_51_437.jpg 0.23391724
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_04_686.jpg 0.3104655
@@ -107,6 +114,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_26_206.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_52_681.jpg -0.0296443
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_41_13_967.jpg -0.03127411
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_13_654.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_41_58_530.jpg -0.05975719
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_32_926.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_55_235.jpg -0.1547008
@@ -166,6 +174,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_47_260.jpg 0.5783844
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_42_350.jpg 0.15074846
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_53_544.jpg 0.320034
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_12_673.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_02_129.jpg 0.0937823
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_32_54_574.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_04_449.jpg 0.22
@@ -189,6 +198,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_58_498.jpg -0.2781274
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_41_59_542.jpg 0.0904655
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_13_437.jpg 0.19822024
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_19_947.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_42_38_228.jpg 0.1412541
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_44_970.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_04_146.jpg -0.0106556
@@ -204,6 +214,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_50_713.jpg 0.084288
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_11_236.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_18_976.jpg -0.08824026
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_15_045.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_53_773.jpg 0.1861508
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_01_486.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_57_078.jpg 0.3583082
@@ -216,6 +227,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_51_350.jpg 0.5209732
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_37_25_393.jpg 0.004348711
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_08_778.jpg 0.30089697
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_52_788.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_26_070.jpg 0.23391724
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_35_015.jpg 0.26262284
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_57_799.jpg 0.17923153
@@ -223,6 +235,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_47_802.jpg -0.0486331
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_05_740.jpg 0.3488158
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_07_832.jpg 0.3104655
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_32_57_609.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_48_786.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_57_464.jpg 0.24348577
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_47_307.jpg 0.3104655
@@ -244,18 +257,21 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_46_10_153.jpg 0.3870138
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_50_209.jpg 0.100034
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_55_453.jpg 0.3487396
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_41_30_388.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_31_14_194.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_08_234.jpg -0.06925154
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_33_283.jpg -0.0106556
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_22_363.jpg 0.29132844
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_03_616.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_55_576.jpg -0.1055992
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_38_305.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_40_58_167.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_36_747.jpg 0.17923153
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_39_571.jpg 0.7314809
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_58_634.jpg -0.1736895
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_18_375.jpg 0.1287396
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_54_357.jpg -0.1641951
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_33_556.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_04_087.jpg 0.0747936
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_00_236.jpg 0.1412541
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_20_710.jpg 0.26262284
@@ -272,9 +288,11 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_40_760.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_22_558.jpg 0.27219137
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_20_000.jpg 0.26262284
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_43_447.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_06_994.jpg -0.0787459
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_39_068.jpg -0.3066105
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_35_389.jpg 0.084288
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_50_533.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_32_52_350.jpg 0.13175974
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_46_29_398.jpg -0.0771161
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_40_47_616.jpg 0.2817599
@@ -296,6 +314,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_08_364.jpg -0.2116669
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_50_682.jpg 0.16973717
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_36_04_527.jpg -0.0122854
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_51_117.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_33_795.jpg 0.30089697
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_14_134.jpg 0.19822024
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_17_313.jpg -0.0787459
@@ -333,8 +352,10 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_09_964.jpg 0.5879529
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_27_792.jpg 0.27219137
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_50_744.jpg 0.25305431
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_34_386.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_34_055.jpg 0.18872589
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_30_191.jpg 0.22
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_10_798.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_41_38_191.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_05_092.jpg 0.3487396
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_36_04_223.jpg -0.04076847
@@ -361,11 +382,13 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_50_514.jpg 0.3870138
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_55_747.jpg 0.4539935
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_24_727.jpg 0.2077146
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_32_720.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_26_073.jpg 0.1412541
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_30_233.jpg 0.4061508
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_26_399.jpg 0.1765823
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_37_18_295.jpg 0.1765823
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_56_866.jpg 0.4157194
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_37_981.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_42_36_403.jpg 0.0747936
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_36_03_011.jpg 0.05219137
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_41_49_818.jpg 0.19822024
@@ -414,6 +437,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_59_316.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_16_582.jpg 0.444425
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_09_278.jpg -0.505992
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_46_37_410.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_41_257.jpg 0.27219137
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_30_029.jpg 0.4157194
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_00_280.jpg 0.3678767
@@ -425,6 +449,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_56_586.jpg 0.084288
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_29_350.jpg 0.26262284
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_46_22_472.jpg -0.2686331
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_57_139.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_54_762.jpg 0.4826991
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_34_412.jpg 0.2817599
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_43_025.jpg 0.22
@@ -438,6 +463,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_32_57_101.jpg 0.23391724
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_45_628.jpg 0.30089697
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_40_09_558.jpg 0.5975214
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_30_153.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_27_996.jpg 0.27219137
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_22_965.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_49_191.jpg 0.2817599
@@ -457,6 +483,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_57_170.jpg -0.1641951
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_06_453.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_07_019.jpg 0.13175974
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_00_261.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_36_53_612.jpg 0.07132844
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_54_936.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_21_187.jpg 0.3487396
@@ -472,6 +499,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_39_39_990.jpg 0.04262284
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_55_091.jpg 0.15074846
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_08_035.jpg 0.3583844
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_48_533.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_41_310.jpg 0.3487396
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_26_274.jpg 0.1412541
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_00_945.jpg 0.5209732
@@ -484,6 +512,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_42_24_655.jpg 0.1765823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_14_236.jpg 0.17923153
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_28_371.jpg -0.2876218
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_18_126.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_34_846.jpg -0.0106556
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_51_350.jpg 0.3009732
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_10_479.jpg 0.1287396
@@ -504,6 +533,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_32_892.jpg 0.3391711
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_41_18_227.jpg 0.15074846
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_40_56_025.jpg 0.2914047
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_46_18_296.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_33_896.jpg 0.3774452
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_42_35_389.jpg 0.084288
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_11_299.jpg -0.22
@@ -514,8 +544,10 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_20_596.jpg 0.5018362
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_15_890.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_59_542.jpg 0.3104655
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_55_299.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_58_097.jpg 0.0083331
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_06_005.jpg 0.3965823
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_52_688.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_58_022.jpg -0.06925154
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_28_126.jpg -0.7226954
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_44_397.jpg 0.3104655
@@ -538,6 +570,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_40_54_196.jpg 0.3009732
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_27_772.jpg 0.100034
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_55_815.jpg 0.3965823
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_15_822.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_13_428.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_52_704.jpg 0.320034
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_40_10_569.jpg 0.7314809
@@ -564,6 +597,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_19_239.jpg 0.1032767
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_02_831.jpg -0.0581274
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_28_436.jpg -0.22
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_49_693.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_35_220.jpg 0.1287396
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_02_790.jpg 0.3774452
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_21_703.jpg 0.3965823
@@ -574,26 +608,32 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_36_49_245.jpg 0.01391724
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_26_854.jpg 0.27219137
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_41_51_948.jpg 0.22
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_48_508.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_35_556.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_22_530.jpg 0.07132844
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_55_251.jpg 0.3487396
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_55_149.jpg 0.3104655
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_19_971.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_23_771.jpg 0.1412541
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_26_854.jpg 0.27219137
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_46_13_808.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_14_135.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_52_250.jpg 0.1287396
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_46_353.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_13_765.jpg 0.084288
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_04_515.jpg 0.17923153
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_39_44_858.jpg 0.1957194
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_58_634.jpg 0.0463105
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_28_204.jpg 0.16973717
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_06_010.jpg 0.13175974
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_16_867.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_42_337.jpg 0.13175974
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_37_814.jpg -0.05026283
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_19_117.jpg 0.3488158
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_39_28_935.jpg 0.004348711
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_37_348.jpg 0.7314809
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_56_301.jpg -0.1452064
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_32_149.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_25_436.jpg 0.0937823
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_19_951.jpg -0.09773462
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_10_682.jpg 0.3104655
@@ -604,12 +644,14 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_32_064.jpg -0.2971161
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_28_278.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_34_512.jpg 0.29132844
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_40_379.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_48_879.jpg -0.1547008
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_04_283.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_34_391.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_41_51_545.jpg 0.24348577
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_53_946.jpg 0.29132844
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_32_650.jpg -0.0296443
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_45_222.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_32_45_780.jpg 0.1765823
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_46_12_385.jpg 0.0904655
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_38_017.jpg -0.3920597
@@ -617,6 +659,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_28_710.jpg -0.05975719
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_58_088.jpg -0.2781274
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_41_613.jpg 0.3774452
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_24_343.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_32_54_574.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_32_57_507.jpg 0.0904655
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_37_27_221.jpg 0.01391724
@@ -649,6 +692,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_31_214.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_38_182.jpg 0.16024281
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_03_530.jpg 0.29132844
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_12_629.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_31_879.jpg 0.5114047
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_47_748.jpg 0.1412541
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_07_483.jpg 0.3678767
@@ -725,6 +769,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_50_311.jpg 0.1670138
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_12_211.jpg 0.0747936
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_28_723.jpg 0.5592473
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_05_527.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_58_910.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_33_488.jpg -0.0961048
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_15_151.jpg 0.3296026
@@ -748,6 +793,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_46_282.jpg 0.23391724
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_24_553.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_44_402.jpg -0.22
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_53_210.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_59_118.jpg 0.1287396
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_05_197.jpg 0.16024281
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_24_451.jpg -0.1452064
@@ -775,8 +821,10 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_18_328.jpg -0.06925154
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_22_151.jpg 0.3870138
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_57_475.jpg -0.2290258
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_31_769.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_27_468.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_45_821.jpg 0.15074846
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_33_01_447.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_57_566.jpg 0.24348577
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_39_916.jpg 0.1032767
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_42_608.jpg -0.22
@@ -802,6 +850,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_57_594.jpg 0.16024281
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_36_852.jpg 0.13175974
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_37_55_353.jpg 0.1287396
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_45_10_279.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_38_50_006.jpg 0.1670138
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_34_215.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_40_987.jpg 0.03305431
@@ -829,6 +878,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_24_522.jpg 0.2077146
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_32_57_810.jpg 0.1032767
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_45_732.jpg 0.07132844
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_25_287.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_32_951.jpg 0.1574452
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_35_117.jpg 0.26262284
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_36_57_566.jpg 0.02348577
@@ -871,6 +921,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_52_094.jpg -0.1910484
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_42_09_827.jpg -0.08824026
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_26_782.jpg 0.1287396
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_21_411.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_54_429.jpg 0.5783844
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_51_452.jpg 0.5209732
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_41_16_802.jpg 0.26262284
@@ -878,6 +929,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_46_24_718.jpg -0.0581274
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_20_101.jpg 0.26262284
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_41_39_611.jpg -0.1167233
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_23_882.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_40_683.jpg 0.3870138
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_32_51_740.jpg 0.2148564
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_24_454.jpg 0.2817599
@@ -893,6 +945,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_08_035.jpg 0.5783844
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_04_551.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_09_448.jpg 0.0747936
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_27_488.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_36_663.jpg 0.3487396
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_31_677.jpg -0.2290258
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_35_196.jpg 0.3965823
@@ -918,6 +971,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_36_080.jpg -0.2211613
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_17_971.jpg 0.1191711
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_42_584.jpg 0.4349326
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_15_394.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_38_40_663.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_43_290.jpg 0.1765823
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_51_265.jpg -0.05975719
@@ -928,6 +982,8 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_56_885.jpg 0.2817599
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_41_39_408.jpg -0.1167233
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_48_922.jpg 0.3487396
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_00_092.jpg 0.22
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_38_132.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_32_283.jpg 0.27219137
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_34_11_206.jpg 0.13175974
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_51_366.jpg -0.05975719
@@ -939,9 +995,11 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_02_910.jpg 0.26262284
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_46_08_327.jpg 0.15074846
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_41_264.jpg -0.002791043
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_31_12_937.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_35_49_226.jpg 0.07132844
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_53_823.jpg 0.5209732
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_51_126.jpg 0.3774452
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_45_164.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_17_000.jpg 0.3296026
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_22_406.jpg -0.0676218
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_40_225.jpg -0.22
@@ -1001,6 +1059,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_33_32_842.jpg 0.02348577
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_42_20_377.jpg 0.0617599
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_09_927.jpg 0.0747936
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_36_28_231.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_42_29_613.jpg -0.0581274
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_13_926.jpg 0.1670138
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_32_49_514.jpg 0.23391724
@@ -1027,10 +1086,12 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_01_554.jpg 0.0747936
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_32_54_472.jpg 0.26262284
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_09_246.jpg 0.0747936
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_43_41_106.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_35_16_705.jpg 0.18872589
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_32_53_764.jpg 0.084288
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_16_570.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_50_312.jpg 0.320034
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_40_47_210.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_20_984.jpg 0.3487396
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_32_45_679.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_00_134.jpg 0.16024281
@@ -1072,6 +1133,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_21_390.jpg 0.07132844
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_33_20_597.jpg 0.13175974
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_49_744.jpg 0.16024281
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_42_25_159.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_43_36_852.jpg -0.08824026
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_43_41_512.jpg 0.4061508
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_41_511.jpg 0.24348577
@@ -1079,6 +1141,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_36_04_527.jpg 0.2077146
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_40_01_431.jpg -0.0106556
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_20_022.jpg 0.3965823
+/home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_32_45_074.jpg 0.22
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_35_52_970.jpg 0.26262284
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_24_219.jpg -0.0122854
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_35_706.jpg 0.217208957
@@ -1109,6 +1172,7 @@
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_44_40_004.jpg -0.0122854
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_37_52_312.jpg 0.3104655
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_44_56_146.jpg 0.0558049
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_45_45_629.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_37_36_312.jpg -0.002791043
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_42_34_374.jpg 0.0463105
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_25_590.jpg 0.19822024
@@ -1123,6 +1187,7 @@
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_37_11_923.jpg 0.4157194
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_19_015.jpg 0.5783844
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_39_21_154.jpg 0.26262284
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_39_34_207.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_34_05_639.jpg 0.3965823
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_41_26_630.jpg -0.06925154
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_32_52_350.jpg 0.13175974
@@ -1152,6 +1217,7 @@
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_38_40_967.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_45_54_255.jpg -0.1641951
 /home/roy/end-to-end-car-caffe/new_img/left_2016_12_01_13_40_56_840.jpg 0.1412541
+/home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_41_05_156.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_40_58_875.jpg -0.05026283
 /home/roy/end-to-end-car-caffe/new_img/right_2016_12_01_13_44_43_043.jpg -0.22
 /home/roy/end-to-end-car-caffe/new_img/center_2016_12_01_13_34_04_731.jpg 0.1191711

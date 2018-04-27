@@ -10,7 +10,7 @@ caffe.set_mode_gpu()
 solver = caffe.SGDSolver('/home/roy/end-to-end-car-caffe/pilotnet_solver.prototxt')
 
 niter = 10000
-test_interval = 500
+test_interval = 1000
 train_loss = np.zeros(niter)
 test_accuracy = np.zeros(int(np.ceil(niter/test_interval)))
 

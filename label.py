@@ -13,7 +13,7 @@ name = data2[:, 0]
 
 
 threshold = 0.5
-max_index = 2
+max_index = 4
 min_index = 0
 
 

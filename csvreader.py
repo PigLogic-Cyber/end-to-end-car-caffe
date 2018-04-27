@@ -53,7 +53,7 @@ for pic_name in dir_list:
                     center_angle = angle[index].astype('float')
                     if center_angle == 0:
                         zero_num = zero_num + 1
-                        if zero_num % 10 == 0:
+                        if zero_num % 5 == 0:
                             train_file.write(file_list + angle[index] + '\n')
                             train_pic = os.path.join(train_path, pic_name)
                             open(train_pic, "wb").write(open(file_list, "rb").read())
@@ -66,7 +66,7 @@ for pic_name in dir_list:
                     left_angle = angle[index].astype('float')
                     if left_angle == 0:
                         left_zero = left_zero + 1
-                        if left_zero % 10 == 0:
+                        if left_zero % 5 == 0:
                             left_angle = angle[index].astype('float') + left_offset
                             left_angle = left_angle.astype('str')
                             train_file.write(file_list + ' ' + left_angle + '\n')
@@ -83,7 +83,7 @@ for pic_name in dir_list:
                     right_angle = angle[index].astype('float')
                     if right_angle == 0:
                         right_zero = right_zero + 1
-                        if right_zero % 10 == 0:
+                        if right_zero % 5 == 0:
                             right_angle = angle[index].astype('float') + right_offset
                             right_angle = right_angle.astype('str')
                             train_file.write(file_list + ' ' + right_angle + '\n')
@@ -104,7 +104,7 @@ for pic_name in dir_list:
                     center_angle = angle[index].astype('float')
                     if center_angle == 0:
                         zero_num = zero_num + 1
-                        if zero_num % 10 == 0:
+                        if zero_num % 5 == 0:
                             val_file.write(file_list + angle[index] + '\n')
                             val_pic = os.path.join(val_path, pic_name)
                             open(val_pic, "wb").write(open(file_list, "rb").read())
@@ -117,7 +117,7 @@ for pic_name in dir_list:
                     left_angle = angle[index].astype('float')
                     if left_angle == 0:
                         left_zero = left_zero + 1
-                        if left_zero % 10 == 0:
+                        if left_zero % 5 == 0:
                             left_angle = angle[index].astype('float') + left_offset
                             left_angle = left_angle.astype('str')
                             val_file.write(file_list + ' ' + left_angle + '\n')
@@ -134,7 +134,7 @@ for pic_name in dir_list:
                     right_angle = angle[index].astype('float')
                     if right_angle == 0:
                         right_zero = right_zero + 1
-                        if right_zero % 10 == 0:
+                        if right_zero % 5 == 0:
                             right_angle = angle[index].astype('float') + right_offset
                             right_angle = right_angle.astype('str')
                             val_file.write(file_list + ' ' + right_angle + '\n')
