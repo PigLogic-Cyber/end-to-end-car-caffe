@@ -10,8 +10,8 @@ import time
 caffe.set_mode_cpu()
 
 #Size of images
-IMAGE_WIDTH = 256
-IMAGE_HEIGHT = 256
+IMAGE_WIDTH = 200
+IMAGE_HEIGHT = 66
 
 '''
 Image processing helper function

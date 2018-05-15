@@ -14,8 +14,8 @@ VAL_DATA_ROOT=/home/roy/end-to-end-car-caffe/val/
 # already been resized using another tool.
 RESIZE=true
 if $RESIZE; then
-  RESIZE_HEIGHT=256
-  RESIZE_WIDTH=256
+  RESIZE_HEIGHT=66
+  RESIZE_WIDTH=200
 # else
 #   RESIZE_HEIGHT=0
 #   RESIZE_WIDTH=0
